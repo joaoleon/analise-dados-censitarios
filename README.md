@@ -1,2 +1,3 @@
 # dados-censitarios
-Analise de dados censitários e (em breve) amostrais
+
+Repositório de analise de dados censitários e (em breve) de dados de pesquisas amostrais.
